@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaimedh10
-- 🌱 I’m currently learning low-code, namely Salesforce
+- 🌱 I’m currently learning low-code, namely Salesforce and Apex
 - 📫 You can reach me via email (jaimeoliveira365@gmail.com)
 
 <!---
